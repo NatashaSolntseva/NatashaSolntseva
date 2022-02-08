@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Natasha, and I'm a beginner frontend developer.
+
 <!--
 **NatashaSolntseva/NatashaSolntseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
