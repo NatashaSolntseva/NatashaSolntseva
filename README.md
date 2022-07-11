@@ -2,6 +2,14 @@
 
 My name is Natasha, and I'm a beginner frontend developer.
 
+
+![codewars](https://www.codewars.com/users/Ultra_Nata/badges/small)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaSolntseva&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=nord&cache_seconds=1800)
+![stats](https://github-readme-stats.vercel.app/api?username=NatashaSolntseva&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=nord&cache_seconds=1800)
+
+
+
 <!--
 **NatashaSolntseva/NatashaSolntseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
