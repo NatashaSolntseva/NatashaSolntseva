@@ -33,8 +33,8 @@ My name is Natasha, and I'm a beginner frontend developer.
 <a  href="https://webpack.js.org" target="_blank"><img src="./src/webpack_icon.png" alt="webpack" height = 30></a>
 </div> 
 <br> 
-### ⚡ Статистика Codewars / Codewars statistic
 
+### ⚡ Статистика Codewars / Codewars statistic:
 ![codewars](https://www.codewars.com/users/rsschool_7ec609f8a21178d7/badges/small)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaSolntseva&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=nord&cache_seconds=1800)
