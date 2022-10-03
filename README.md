@@ -1,12 +1,12 @@
 ## 👋 Привет! Меня зовут Наташа и я начинающий вэб-разработчик
 - 👨🏻‍🎓 заканчиваю курс обучения по вэб-разработке Yandex.Practicum
-- 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
+- 👨🏻‍🍼 Помогаю студентам Yandex.Practicum как старший студент
 - 📫 Связаться со мной можно:  
 
     <a  href="https://t.me/UltraNata" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a>
     <a  href="linkedin.com/in/natalia-shmatenko-2766b830" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
     <a  href="mailto:shmatenko.natalia@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
-## Hi there 👋
+## 👋 Hi there 
 
 My name is Natasha, and I'm a beginner frontend developer. Меня зовут Наташа! Я начинающий вэб0разработчик.
 
@@ -18,7 +18,7 @@ My name is Natasha, and I'm a beginner frontend developer. Меня зовут �
     <a  href="linkedin.com/in/natalia-shmatenko-2766b830" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
     <a  href="mailto:shmatenko.natalia@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
 
-### ⚡ Technologies
+### ⚡ Используемый стэк технологий / Technologies
 
 <br>
 <div>
@@ -33,8 +33,9 @@ My name is Natasha, and I'm a beginner frontend developer. Меня зовут �
 <a  href="https://webpack.js.org" target="_blank"><img src="./src/webpack_icon.png" alt="webpack" height = 30></a>
 </div> 
 <br> 
+### ⚡ Статистика Codewars / Codewars statistic
 
-![codewars](https://www.codewars.com/users/%20NatashaSolntseva/badges/small)
+![codewars](https://www.codewars.com/users/rsschool_7ec609f8a21178d7/badges/small)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaSolntseva&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=nord&cache_seconds=1800)
 ![stats](https://github-readme-stats.vercel.app/api?username=NatashaSolntseva&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=nord&cache_seconds=1800)
