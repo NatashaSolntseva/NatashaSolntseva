@@ -8,7 +8,7 @@
     <a  href="mailto:shmatenko.natalia@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
 ## 👋 Hi there 
 
-My name is Natasha, and I'm a beginner frontend developer. Меня зовут Наташа! Я начинающий вэб0разработчик.
+My name is Natasha, and I'm a beginner frontend developer.
 
 - 👨🏻‍🎓 Yandex.Practicum student 
 - 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
