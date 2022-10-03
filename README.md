@@ -1,6 +1,14 @@
+## 👋 Привет! Меня зовут Наташа и я начинающий вэб-разработчик
+- 👨🏻‍🎓 заканчиваю курс обучения по вэб-разработке Yandex.Practicum
+- 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
+- 📫 Связаться со мной можно:  
+
+    <a  href="https://t.me/UltraNata" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a>
+    <a  href="linkedin.com/in/natalia-shmatenko-2766b830" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
+    <a  href="mailto:shmatenko.natalia@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
 ## Hi there 👋
 
-My name is Natasha, and I'm a beginner frontend developer. 
+My name is Natasha, and I'm a beginner frontend developer. Меня зовут Наташа! Я начинающий вэб0разработчик.
 
 - 👨🏻‍🎓 Yandex.Practicum student 
 - 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
