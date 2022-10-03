@@ -1,5 +1,5 @@
 ## 👋 Привет! Меня зовут Наташа и я начинающий вэб-разработчик
-- 👨🏻‍🎓 заканчиваю курс обучения по вэб-разработке Yandex.Practicum
+- 👨🏻‍🎓 заканчиваю курс обучения по профессии [Веб-разработчик](https://practicum.yandex.ru/web-plus/) Yandex.Practicum
 - 👨🏻‍🍼 Помогаю студентам Yandex.Practicum как старший студент
 - 📫 Связаться со мной можно:  
 
@@ -10,8 +10,8 @@
 
 My name is Natasha, and I'm a beginner frontend developer.
 
-- 👨🏻‍🎓 Yandex.Practicum student 
-- 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
+- 👨🏻‍🎓 Yandex.Practicum [student](https://practicum.yandex.ru/web-plus/) 
+- 👨🏻‍🍼 Help junior students of Yandex.Practicum as a senior student
 - 📫 How to reach me:  
 
     <a  href="https://t.me/UltraNata" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a>
@@ -33,6 +33,15 @@ My name is Natasha, and I'm a beginner frontend developer.
 <a  href="https://webpack.js.org" target="_blank"><img src="./src/webpack_icon.png" alt="webpack" height = 30></a>
 </div> 
 <br> 
+
+### ⚡ Мои проекты / My projects:
+
+- ![Проект место / Mesto project](https://rochernikov.github.io/mesto-project/)</div>
+- ![Реакт-проект: Бургерная /  React project: Burger house](https://natashasolntseva.github.io/react-burger/)
+- ![Анимация работы алгоритмов / Algorithm animation](https://algososh-n48wpg10k-natashasolntseva.vercel.app/)
+- Совместный проет студентов Yandex.Practicum: ![Любимовка](https://lubimovka.art/events) / Colaboration project Yandex.Practicum student's: ![Lubimovka](https://lubimovka.art/events)
+
+</div>
 
 ### ⚡ Статистика Codewars / Codewars statistic:
 ![codewars](https://www.codewars.com/users/rsschool_7ec609f8a21178d7/badges/small)
