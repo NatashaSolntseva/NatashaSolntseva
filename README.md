@@ -4,7 +4,7 @@
 - 📫 Связаться со мной можно:  
 
     <a  href="https://t.me/UltraNata" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a>
-    <a  href="linkedin.com/in/natalia-shmatenko-2766b830" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
+    <a  href="https://www.linkedin.com/in/natalia-shmatenko-2766b830" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
     <a  href="mailto:shmatenko.natalia@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
 ## 👋 Hi there 
 
@@ -15,7 +15,7 @@ My name is Natasha, and I'm a beginner frontend developer.
 - 📫 How to reach me:  
 
     <a  href="https://t.me/UltraNata" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a>
-    <a  href="" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
+    <a  href="https://www.linkedin.com/in/natalia-shmatenko-2766b830" target="_blank"> <img src="./src/social/linkedin.png" alt="Linkedin" height = 20></a>
     <a  href="mailto:shmatenko.natalia@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
 
 ### ⚡ Используемый стэк технологий / Technologies
