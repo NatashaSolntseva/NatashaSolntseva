@@ -39,7 +39,7 @@ My name is Natasha, and I'm a beginner frontend developer.
 - ![Проект место / Mesto project](https://rochernikov.github.io/mesto-project/)</div>
 - ![Реакт-проект: Бургерная /  React project: Burger house](https://natashasolntseva.github.io/react-burger/)
 - ![Анимация работы алгоритмов / Algorithm animation](https://algososh-n48wpg10k-natashasolntseva.vercel.app/)
-- Совместный проет студентов Yandex.Practicum: ![Любимовка](https://lubimovka.art/events) / Colaboration project Yandex.Practicum student's: ![Lubimovka](https://lubimovka.art/events)
+- Совместный проет студентов Yandex.Practicum: ![Любимовка](https://yuliazherebtsova.github.io/lubimovka/) / Colaboration project Yandex.Practicum student's: ![Lubimovka](https://yuliazherebtsova.github.io/lubimovka/)
 
 </div>
 
