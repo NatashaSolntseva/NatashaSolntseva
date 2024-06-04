@@ -31,6 +31,8 @@
 <br>
 ### ⚡ Хакатоны | Hackathons:
 
+- [Яндекс Мастеркая. ХАКАТОН+. MVP Web-приложения для IT мероприятий | Yandex Workshop. HACKATHON+. MVP Web Application for IT Events ](http://eventfun.ru/). [Репозиторий | Repository](https://github.com/Funtech-11/Frontend)
+- [Яндекс Мастеркая. ХАКАТОН+. MVP-версия чат-бота для компании Vink | Yandex Workshop. HACKATHON+. MVP version of a chatbot for Vink company ](https://chat-bot-tft.vercel.app/). [Репозиторий | Repository](https://github.com/TechForceTurbo/frontend)
 - [Яндекс Мастеркая. ХАКАТОН+. Индивидуальный план развития для сотрудников Альфа-Банка | Yandex Workshop. HACKATHON+. Individual Development Plan for Alpha-Bank Employees ](https://main--resonant-cactus-89987a.netlify.app/)
 
 <br>
